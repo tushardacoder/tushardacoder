@@ -46,9 +46,6 @@
 - LeetCode solutions
 - Data Structures & Algorithms
 
-## 📈 GitHub Stats
 
 ## 🌐 Connect With Me
-- LinkedIn
-- Portfolio
-- Email
+https://www.linkedin.com/in/tusharbasak/
