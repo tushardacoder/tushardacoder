@@ -1,16 +1,54 @@
-## Hi there 👋
+# Hi, I'm Tushar 👋
 
-<!--
-**tushardacoder/tushardacoder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+- ASP.NET Core Developer
+- Problem Solver
+-  Full Stack Enthusiast
+- Interested in Backend Engineering
 
-Here are some ideas to get you started:
+## 🛠 Tech Stack
+### Languages
+- C#
+- C++
+- JavaScript
+- SQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Backend
+- ASP.NET Core
+- ADO.NET
+- Entity Framework Core
+- REST API
+
+### Frontend
+- React JS
+- Next JS
+- HTML
+- CSS
+- Tailwind CSS
+
+### Database
+- SQL Server
+- MySQL
+
+## 📌 Featured Projects
+
+### Library Management System
+- Role-based authentication
+- Book issuing system
+- SQL Server integration
+
+### School Management System
+- Admin & Teacher modules
+- Student grading system
+- ADO.NET implementation
+
+### DSA Problem Solving
+- LeetCode solutions
+- Data Structures & Algorithms
+
+## 📈 GitHub Stats
+
+## 🌐 Connect With Me
+- LinkedIn
+- Portfolio
+- Email
